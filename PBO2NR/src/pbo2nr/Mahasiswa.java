@@ -1,5 +1,6 @@
 package pbo2nr;
 public class Mahasiswa {
-    String NPM;
+    int NPM;
     String Nama;
+    String Alamat;
 }

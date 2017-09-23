@@ -11,5 +11,7 @@ public class main {
         m2.NPM = "13639998";
         m2.Alamat = "Sungai Ulin";
         
+        m1.info();
+        m2.info();
     }
 }

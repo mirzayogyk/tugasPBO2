@@ -6,6 +6,9 @@ public class Kucing {
     double panjangEkor;
     
     void info(){
-        
+        System.out.println(jenis);
+        System.out.println(warna);
+        System.out.println(jumlahKumis);
+        System.out.println(panjangEkor);
     }
 }

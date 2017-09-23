@@ -7,5 +7,7 @@ public class KucingBeraksi {
         kucingKu.jumlahKumis = 8;
         kucingKu.panjangEkor = 15.6;
         kucingKu.warna = "Jingga";
+        
+        kucingKu.info();
     }
 }

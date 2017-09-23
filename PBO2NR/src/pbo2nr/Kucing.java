@@ -4,4 +4,8 @@ public class Kucing {
     String warna;
     int jumlahKumis;
     double panjangEkor;
+    
+    void info(){
+        
+    }
 }

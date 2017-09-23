@@ -6,6 +6,10 @@ public class main {
         m1.NPM = "13639999";
         m1.Alamat = "Sungai Besar";
         
-  
+        Mahasiswa m2 = new Mahasiswa();
+        m2.Nama = "Bejo";
+        m2.NPM = "13639998";
+        m2.Alamat = "Sungai Ulin";
+        
     }
 }
